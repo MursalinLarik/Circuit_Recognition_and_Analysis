@@ -31,16 +31,16 @@ other circuit analysis techniques besides mesh analysis.
 <br />
 <br />
 The original circuit looks like:
-![alt text] (https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/circuit.jpg)
+![alt text](https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/circuit.jpg)
 <br />
 The result after the components and digits are recognized:
 <br />
-![alt text] (https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/detected.jpg)
+![alt text](https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/detected.jpg)
 <br />
 The components and the values associated with those components are identified and recorded:
 <br />
-![alt text] (https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/identified.jpg)
+![alt text](https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/identified.jpg)
 <br />
 Finally, using Ohm's law in the single mesh, the circuit is solved and the value of current in the loop is displayed:
 <br />
-![alt text] (https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/solved.jpg)
+![alt text](https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/solved.jpg)
