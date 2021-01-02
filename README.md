@@ -43,4 +43,4 @@ The components and the values associated with those components are identified an
 <br />
 Finally, using Ohm's law in the single mesh, the circuit is solved and the value of current in the loop is displayed:
 <br />
-![alt text](https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/solved.jpg)
+![alt text](https://github.com/MursalinLarik/Circuit_Recognition_and_Analysis/blob/main/solved.png)
